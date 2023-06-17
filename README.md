@@ -11,6 +11,7 @@
 
 git remote add origin git@github.com:Solvereign/test.git  
 git branch -M main  
+git commit -m "comment"  
 git push -u origin main  
 
 
